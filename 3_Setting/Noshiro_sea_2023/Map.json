@@ -1,0 +1,45 @@
+{
+    "Geodetic_System" : {
+        "Rectangular_Coordinate" : {
+            "Value" : 10,
+            "Unit" : "...",
+            "Definition" : "Number of Rectangular-Coordinate(Japan) at Launcher",
+            "Note" : "..."
+        },
+
+        "Latitude" : {
+            "Value" : "40'00'00",
+            "Unit" : "deg(DMS)",
+            "Definition" : "Latitude (North) : Launcher",
+            "Note" : "DMS, not decimal_deg!"
+        },
+
+        "Longitude" : {
+            "Value" : "140'50'00",
+            "Unit" : "deg(DMS)",
+            "Definition" : "Longitude (East) : Launcher",
+            "Note" : "DMS, not decimal_deg!"
+        },
+
+        "a" : {
+            "Value" : 6378137,
+            "Unit" : "m",
+            "Definition" : "Long-Radius : Ellipsoid",
+            "Note" : "Value with GRS80"
+        },
+
+        "F" : {
+            "Value" : 298.257222101,
+            "Unit" : "...",
+            "Definition" : "Inverse-Oblateness : Ellipsoid",
+            "Note" : "Value with GRS80"
+        },
+
+        "m0" : {
+            "Value" : 0.9999,
+            "Unit" : "...",
+            "Definition" : "Reduced-scale : X(North)-axis",
+            "Note" : "..."
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Latitude" : {
+        "Value" : 40.23767,
+        "Unit" : "deg",
+        "Definition" : "Latitude (North) : Launcher",
+        "Note" : "Japan : 35 deg"
+    },
+
+    "Longitude" : {
+        "Value" : 140.0091,
+        "Unit" : "deg",
+        "Definition" : "Longitude (East) : Launcher",
+        "Note" : "Japan : 136 deg"
+    },
+
+    "Altitude" : {
+        "Value" : 5.3,
+        "Unit" : "m",
+        "Definition" : "Altitude above Sea-level: Launcher",
+        "Note" : "..."
+    },
+
+    "Azimuth" : {
+        "Value" : 270.0,
+        "Unit" : "deg",
+        "Definition" : "Azimuth : Launcher",
+        "Note" : "0 deg : North, 90 deg : East"
+    },
+
+    "Angle" : {
+        "Value" : 70.0,
+        "Unit" : "deg",
+        "Definition" : "Angle of Elevation",
+        "Note" : "0 deg : Horizontal plane"
+    },
+
+    "Length" : {
+        "Value" : 5.0,
+        "Unit" : "m",
+        "Definition" : "Length : Launcher",
+        "Note" : "..."
+    }
+}

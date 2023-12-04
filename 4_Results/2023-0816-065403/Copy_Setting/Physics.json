@@ -1,0 +1,29 @@
+{
+    "g" : {
+        "Value" : 9.80665,
+        "Unit" : "m/s^2",
+        "Definition" : "Gravitational Acceleration",
+        "Note" : "..."
+    },
+
+    "R" : {
+        "Value" : 287.0,
+        "Unit" : "J/kg*K",
+        "Definition" : "Specific Gas-constant : Air",
+        "Note" : "..."
+    },
+
+    "Pressure_STD" : {
+        "Value" : 101325,
+        "Unit" : "Pa",
+        "Definition" : "Pressure at Sea-level",
+        "Note" : "for air-density"
+    },
+
+    "Temperature_STD" : {
+        "Value" : 15,
+        "Unit" : "degree Celsius",
+        "Definition" : "Temperature at Sea-level",
+        "Note" : "for air-density"
+    }
+}

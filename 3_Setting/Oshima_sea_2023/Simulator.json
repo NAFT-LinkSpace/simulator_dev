@@ -1,0 +1,36 @@
+{
+    "Wind_Model" : {
+        "Value" : 0,
+        "Unit" : "...",
+        "Definition" : "Select Wind-Model",
+        "Note" : "0 : Power-law, 1 : Statistic"
+    },
+
+    "Open_Parachute" : {
+        "Value" : 1,
+        "Unit" : "...",
+        "Definition" : "Whether to Open Parachute",
+        "Note" : "0 : Never, 1 : at Apex, 2 : Timer"
+    },
+
+    "Landing_Level" : {
+        "Value" : 0,
+        "Unit" : "...",
+        "Definition" : "Criterion : Landing",
+        "Note" : "0 : Sea-level, 1 : Ground-level"
+    },
+
+    "Time_Step" : {
+        "Value" : 0.01,
+        "Unit" : "s",
+        "Definition" : "Time-Step for Simulation",
+        "Note" : "For output, Not for calculation"
+    },
+
+    "Time_Max" : {
+        "Value" : 100,
+        "Unit" : "s",
+        "Definition" : "Time to terminate calculation",
+        "Note" : "within simulation, Not real time"
+    }
+}

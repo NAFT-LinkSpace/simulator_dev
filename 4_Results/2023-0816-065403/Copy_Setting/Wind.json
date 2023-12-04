@@ -1,0 +1,63 @@
+{
+    "Power_law" : {
+        "Wind_STD_Init" : {
+            "Value" : 0.0,
+            "Unit" : "m/s",
+            "Definition" : "Initial Value : Wind-speed at Height_STD",
+            "Note" : "..."
+        },
+
+        "Interval_Wind_STD" : {
+            "Value" : 1.0,
+            "Unit" : "m/s",
+            "Definition" : "Interval : Wind_STD",
+            "Note" : "..."
+        },
+
+        "Variation_Wind_STD" : {
+            "Value" : 7,
+            "Unit" : "...",
+            "Definition" : "Variation : Wind_STD",
+            "Note" : "..."
+        },
+
+        "Wind_Azimuth_Init" : {
+            "Value" : 0.0,
+            "Unit" : "deg",
+            "Definition" : "Azimuth : Wind",
+            "Note" : "0 deg : Launcher orientation"
+        },
+
+        "Variation_Wind_Azimuth" : {
+            "Value" : 8,
+            "Unit" : "...",
+            "Definition" : "Variation : Wind_Azimuth",
+            "Note" : "..."
+        },
+
+
+        "Height_STD" : {
+            "Value" : 2.0,
+            "Unit" : "m",
+            "Definition" : "Standard Altitude",
+            "Note" : "for Power_law"
+        },
+
+        "Pow" : {
+            "Value" : 0.16667,
+            "Unit" : "...",
+            "Definition" : "Value of p : Wind = Wind_STD * (Height/Height_STD)^p",
+            "Note" : "for Power_law"
+        }
+    },
+
+
+    "Statistic" : {
+        "Path_CSV" : {
+            "Value" : "C:/Users/genia/00_Noshiro2023/1_Thrust/thrust_K240_20230604.xlsx",
+            "Unit" : "...",
+            "Definition" : "Path : CSV for Statistic-Wind",
+            "Note" : "..."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Path_XLSX" : {
+        "Value" : "C:/Users/bestt/git/NAFT_aerosimu/1_Thrust/thrust_K240_20230604.xlsx",
+        "Unit" : "...",
+        "Definition" : "Path : Excel-file for Thrust",
+        "Note" : "..."
+    },
+
+    "Burning_Time" : {
+        "Value" : 9.30,
+        "Unit" : "s",
+        "Definition" : "Time to 0 Thrust",
+        "Note" : "..."
+    }
+}
